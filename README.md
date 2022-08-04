@@ -22,7 +22,7 @@ programming languages and Frameworks to create efficient and tastable software f
 #### Find me Here 
 
 
-[LinkedIn](www.linkedin.com/in/paulchabinga)
+[LinkedIn](https://linkedin.com/in/paulchabinga)
 
 <!--
 **tigerFish29/tigerFish29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
