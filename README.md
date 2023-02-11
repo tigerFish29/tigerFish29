@@ -2,12 +2,6 @@
 
 #### Software Developer based in London, England :guardsman:
 
----
-
-
-
----
-
 
 #### Technical Skills :computer:
 
