@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Paul 
 
-#### I am a Software Developer based in London, England :guardsman:
+#### Software Developer based in London, England :guardsman:
 
 ---
 
-Very passionate about using my interest in problem solving by developing efficient and user friendly Software Applications. 
-I'm an adaptable, determined Software Developer who is flexible with the ever changing landscape of Software and Programming. Eager to learn new tools, 
-programming languages and Frameworks to create efficient and tastable software for the end user.
+
 
 ---
 
